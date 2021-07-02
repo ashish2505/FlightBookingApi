@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightBookingWebApi", "FlightBookingWebApi\FlightBookingWebApi.csproj", "{3D4B9DF2-DF85-479C-8226-A34B29A4E05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{0E3289E3-0F07-46CC-9A45-C76FAE709EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4B9DF2-DF85-479C-8226-A34B29A4E05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4B9DF2-DF85-479C-8226-A34B29A4E05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4B9DF2-DF85-479C-8226-A34B29A4E05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4B9DF2-DF85-479C-8226-A34B29A4E05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3289E3-0F07-46CC-9A45-C76FAE709EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3289E3-0F07-46CC-9A45-C76FAE709EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3289E3-0F07-46CC-9A45-C76FAE709EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3289E3-0F07-46CC-9A45-C76FAE709EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB0CDF1E-DAD4-4D7E-A92A-749A345E3D24}
+	EndGlobalSection
+EndGlobal
