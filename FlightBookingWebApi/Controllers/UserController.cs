@@ -32,6 +32,7 @@ namespace FlightBookingWebApi.Controllers
         //    return true;
         //}
 
+        //USer Controller
         [HttpGet]
         [Route("api/User")]
         public string IsValidUser(string userName, string password)
